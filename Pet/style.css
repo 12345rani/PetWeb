@@ -1,0 +1,74 @@
+body
+{
+    margin:auto;
+    padding: 16px;
+}
+.contetSec1
+{
+padding: 180px 65px;
+}
+
+.section2
+{
+    background-color: #ea627530;
+}
+.box
+{
+    height: 100px;
+    width: 250px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+}
+.dog
+{
+    padding:0px 8px;
+}
+.dogTitle
+{
+    color: black;
+    padding: 15px;
+}
+.contetSec2
+{
+    padding: 110px 0px;
+}
+.ulist
+{
+    list-style: none;
+    line-height: 30px;
+}
+.section4
+{
+    background-color: #ea627530;
+}
+.cd
+{
+    height: 200px;
+    width: 150px;
+    align-self: center;
+}
+.section6
+{
+    background-color: #ea627530;
+}
+.box1
+{
+    height: 50px;
+    width: 50px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    display: block;
+}
+.footer
+{
+    padding-top: 100px;
+}
+/* .footImg
+{
+    margin-top: 100px;
+    margin-left: 0px;
+    padding-left: 395px;
+} */
